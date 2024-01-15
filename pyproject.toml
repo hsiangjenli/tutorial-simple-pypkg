@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "ntust-simslab-pkg"
-version = "0.1"
+name = "ntust_simslab"
+version = "0.13"
 description = "A simple example for building a Python package."
 authors = ["Hsiang-Jen Li <hsiangjenli@gmail.com>"]
 readme = "README.md"

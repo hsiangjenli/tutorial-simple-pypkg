@@ -75,7 +75,7 @@ pip install git+https://github.com/hsiangjenli/tutorial-simple-pypkg.git@package
     - ![Alt text](image.png)
 1. Install the package from [PyPI](https://pypi.org/project/ntust-simslab/)
     ```shell
-    pip install ntust-simslab==0.1
+    pip install ntust-simslab==0.13
     ```
 
 ## Usage
