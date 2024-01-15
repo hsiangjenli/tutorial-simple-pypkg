@@ -31,7 +31,7 @@ pip install .
 
 Install from GitHub:
 ```shell
-pip install git+
+pip install git+https://github.com/hsiangjenli/tutorial-simple-pypkg.git@package
 ```
 
 ## Pushing to PyPi
@@ -71,7 +71,9 @@ pip install git+
     pip install twine
     twine upload dist/*
     ```
-1. Install the package from PyPI
+    - https://pypi.org/help/#apitoken
+    - ![Alt text](image.png)
+1. Install the package from [PyPI](https://pypi.org/project/ntust-simslab/)
     ```shell
     pip install ntust-simslab==0.1
     ```
