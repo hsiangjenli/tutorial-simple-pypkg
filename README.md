@@ -4,7 +4,7 @@ This is a simple example of how to build your own Python package.
 
 ## Installation
 
-Install towards current directory:
+Install from current directory:
 ```javascript
 pip install .
 
